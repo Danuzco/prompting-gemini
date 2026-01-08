@@ -1,0 +1,37 @@
+Conceptos clave: Prevención en Trabajos de Altura.
+
+Riesgo de caída: Existe riesgo de caída cuando un trabajador realiza una tarea sobre una superficie o plataforma emplazada a 1,8 metros, o más, de altura por encima del nivel más bajo, o donde una caída de menor altura pueda causar una lesión grave.
+Sistema Personal de Detección de Caídas (SPDC): Conjunto de componentes y subsistemas interconectados, que incluye un ACC utilizado por el usuario y que cuando es conectado a un dispositivo de anclaje apropiado, detiene una caída desde una altura.
+Arnés para el cuerpo completo (ACC): Elemento de protección que brinda el soporte necesario al cuerpo ante una caída, gracias a las correas que se ajustan al trabajador y distribuyen la fuerza de detención entre la parte superior de los muslos, la pelvis, el pecho y los hombros.
+Estrobo o Cabo de vida: Elemento de conexión de material flexible, el que, en conjunto con un amortiguador de impacto, se utiliza como un subsistema de conexión del SPDC.
+Amortiguador de Impacto: Componente diseñado para disipar la energía cinética generada durante una caída que limita las fuerzas de detención aplicadas al SPDC, al dispositivo de anclaje y al usuario.
+Línea de vida: Sistema de anclaje que consiste en un cable o riel que se instala para que los operarios conecten su SPDC y se muevan de forma segura.
+Punto de anclaje: Es un punto seguro de sujeción del sistema personal para la detención de caídas a la estructura disponible. Debe ser independiente de cualquier anclaje que vaya a ser usado para suspender o soportar plataformas de trabajo (andamios, plataformas móviles, escaleras, etcétera).
+N.º
+Criterio
+Cumple (SI/No)
+1. ¿La tarea se realiza sobre una superficie a 1,8 metros o más de altura?
+
+2. Si es a menos de 1,8m: ¿Existe riesgo de lesión grave en caso de caída?
+
+3. ¿El punto de sujeción es independiente de la plataforma de trabajo (andamio) que sostiene al trabajador?
+
+4. ¿Es un punto seguro capaz de resistir la fuerza de detención del sistema?
+
+5. ¿El trabajador utiliza un Arnés de Cuerpo Completo que ajusta en muslos, pelvis, pecho y hombros?
+
+6. ¿El conjunto de componentes está interconectado (Arnés + Conexión + Anclaje) antes de iniciar la tarea?
+
+7. ¿Existen puntos de anclaje estructurales o líneas de vida disponibles que permitan la conexión continua durante el desplazamiento?
+
+8. ¿Se está utilizando el Estrobo o Cabo de vida como elemento de conexión del sistema?
+
+9. ¿El estrobo utilizado es de tipo Y (doble cabo) para permitir el desplazamiento seguro?
+
+10. ¿El sistema incluye un amortiguador de impacto para disipar la energía cinética en caso de caída?
+
+Bibliografía
+NCh 1258/1 Of.2004. Sistemas personales para detención de caídas Parte 1: Arneses para el cuerpo completo.
+NCh1258/2 Of.2005. Sistemas personales para detención de caídas Parte 2: Estrobos y amortiguadores de impacto.
+Guía Técnica. Guía para la selección y control de equipos de protección personal para trabajos con riesgo de caídas.
+

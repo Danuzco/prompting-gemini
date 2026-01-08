@@ -1,0 +1,2090 @@
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+Contenido
+Página
+Preámbulo
+
+IV
+
+0
+
+Introducción
+
+1
+
+1
+
+Alcance y campo de aplicación
+
+2
+
+2
+
+Referencias normativas
+
+3
+
+3
+
+Términos y definiciones
+
+4
+
+4
+
+Requisitos
+
+6
+
+4.1
+
+Generalidades
+
+6
+
+4.2
+
+Requisitos para rieles verticales
+
+7
+
+4.3
+
+Requisitos para líneas de vida verticales permanentes
+
+7
+
+4.4
+
+Requisitos para líneas de vida verticales temporales
+
+8
+
+4.5
+
+Materiales y construcción para líneas de vida verticales
+
+9
+
+4.6
+
+Amortiguadores de impacto con línea de vida vertical
+
+10
+
+4.7
+
+Requisitos para el dispositivo para detención tipo deslizante
+
+10
+
+4.8
+
+Requisitos para conectores
+
+12
+
+4.9
+
+Resistencia a la corrosión
+
+12
+
+4.10
+
+Comportamiento del trabador, posterior al acondicionamiento
+
+12
+
+4.11
+
+Confiabilidad del trabado
+
+13
+
+4.12
+
+Comportamiento dinámico
+
+13
+
+4.13
+
+Resistencia a la tracción de rieles verticales
+
+13
+
+4.14
+
+Resistencia a la tracción de líneas de vida verticales
+
+14
+
+I
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+Contenido
+Página
+
+5
+
+Aparatos y métodos de ensayo
+
+14
+
+5.1
+
+Aparatos
+
+14
+
+5.2
+
+Métodos de ensayo
+
+15
+
+6
+
+Instrucciones para uso general, marcado y embalaje
+
+19
+
+6.1
+
+Instrucciones para uso general
+
+19
+
+6.2
+
+Marcado
+
+21
+
+6.3
+
+Embalaje
+
+22
+
+Anexos
+Anexo A (normativo) Ensayos de comportamiento dinámico
+
+27
+
+A.1
+
+Generalidades
+
+27
+
+A.2
+
+Aparatos
+
+27
+
+A.3
+
+Ensayo de comportamiento para un sistema personal para detención de
+caídas que incluya una línea de vida vertical temporal
+
+28
+
+Ensayo de comportamiento para un sistema personal para detención de
+caídas que incluya una línea de vida vertical permanente
+
+29
+
+Ensayo de comportamiento para un sistema personal para detención de
+caídas que incluya un riel vertical
+
+31
+
+A.4
+A.5
+
+Anexo B (informativo) Bibliografía
+
+41
+
+Anexo C (informativo) Justificación de los cambios editoriales
+
+42
+
+Anexo D (informativo) Justificación de las desviaciones técnicas
+
+43
+
+II
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+Contenido
+
+NCh1258/4
+Página
+
+Figuras
+Figura 1 Ejemplo de riel vertical
+
+23
+
+Figura 2 Ejemplo de una línea de vida vertical permanente
+
+24
+
+Figura 3 Ejemplo de una línea de vida temporal
+
+25
+
+Figura 4 Configuración para ensayo de resistencia a la tracción
+
+26
+
+Figura A.1 Ejemplos de sistemas personales para detención de caídas
+
+33
+
+Figura A.2 Torso de ensayo
+
+34
+
+Figura A.3 Características de la respuesta de frecuencia de la instrumentación
+para medición de fuerza
+
+35
+
+Figura A.4 Configuración para ensayo de comportamiento para sistemas para
+detención de caídas que incluya una línea de vida vertical temporal
+
+36
+
+Figura A.5 Configuración para ensayo de comportamiento para un sistema para
+detención de caídas que incluya una línea de vida vertical permanente
+
+37
+
+Figura A.6 Detalles de la configuración de la celda de carga en la posición
+anterior a la liberación
+
+38
+
+Figura A.7 Configuración para ensayo de comportamiento para sistemas
+personales para detención de caídas que incluyen un riel vertical
+
+39
+
+Figura A.8 Detalles de la configuración de la celda de carga en la posición
+anterior a la liberación
+
+40
+
+Tablas
+Tabla 1 Fuerzas de ensayo para líneas de vida verticales (LVV)
+
+14
+
+Tabla C.1 Cambios editoriales
+
+42
+
+Tabla D.1 Desviaciones técnicas
+
+43
+
+III
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NORMA CHILENA OFICIAL
+
+NCh1258/4.Of2005
+
+Sistemas personales para detención de caídas - Parte 4:
+Rieles verticales y líneas de vida verticales que incorporan
+un dispositivo para detención tipo deslizante
+
+Preámbulo
+El Instituto Nacional de Normalización, INN, es el organismo que tiene a su cargo el estudio y
+preparación de las normas técnicas a nivel nacional. Es miembro de la INTERNATIONAL
+ORGANIZATION FOR STANDARDIZATION (ISO) y de la COMISION PANAMERICANA DE
+NORMAS TECNICAS (COPANT), representando a Chile ante esos organismos.
+Esta norma se estudió para especificar los requisitos, métodos de ensayo, instrucciones para
+uso y mantenimiento, marcado, etiquetado y embalaje de rieles verticales y líneas de vida
+verticales que incorporan un dispositivo para detención tipo deslizante.
+Esta norma es una traducción modificada de la versión en inglés de la Norma Internacional
+ISO 10333-4:2002 Personal fall-arrest systems - Part 4: Vertical rails and vertical lifelines
+incorporating a sliding-type fall arrester.
+Para los propósitos de esta norma, se han realizado los cambios editoriales que se indican
+y justifican en Anexo C.
+En esta norma se han realizado modificaciones con respecto a la Norma Internacional con
+objeto de minimizar los riesgos de caída cuando se trabaja en altura y en consecuencia,
+aumentar la seguridad de los usuarios. Estas desviaciones técnicas se han incorporado al
+texto de la norma, y están marcadas con una barra simple en los márgenes (I).
+En Anexo D se incluye una lista completa de las desviaciones técnicas, junto con su
+justificación.
+
+IV
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+La norma NCh1258/4 ha sido preparada por la División de Normas del Instituto Nacional
+de Normalización, y en su estudio el Comité estuvo constituido por las organizaciones y
+personas naturales siguientes:
+Asociación Chilena de Seguridad, AChS
+Centro de Estudios, Medición y Certificación de
+Calidad, CESMEC Ltda.
+CHILESIN
+Dirección del Trabajo
+IDIEM - Universidad de Chile
+Instituto Nacional de Normalización, INN
+LEVTEC Chile
+MSA de Chile Ltda.
+
+Oscar Soto P.
+Julio Muñoz M.
+Héctor Ochoa C.
+Lionel Cancino S.
+Oscar Clasing J.
+Jeanette Cortés C.
+Mónica Miranda O.
+Haydee Aceituno M.
+
+En forma adicional a las organizaciones que participaron en Comité, el Instituto recibió
+respuesta durante el período de consulta pública de esta norma, de la entidad siguiente:
+Secretaría Regional Ministerial de Salud RM
+El Anexo A forma parte de la norma.
+Los Anexos B, C y D no forman parte de la norma, se insertan sólo a título informativo.
+Esta norma ha sido aprobada por el Consejo del Instituto Nacional de Normalización, en
+sesión efectuada el 26 de abril de 2005.
+Esta norma ha sido declarada Oficial de la República de Chile por Decreto Exento N°1030,
+de fecha 18 de agosto de 2008, del Ministerio de Salud, publicado en el Diario Oficial del
+02 de septiembre de 2008.
+
+V
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NORMA CHILENA OFICIAL
+
+NCh1258/4.Of2005
+
+Sistemas personales para detención de caídas - Parte 4:
+Rieles verticales y líneas de vida verticales que incorporan
+un dispositivo para detención tipo deslizante
+
+0 Introducción
+En casos donde existe peligro de caída desde una altura y donde, por razones técnicas o
+por trabajos de muy corta duración, casos en que no se puede brindar acceso seguro, es
+obligatorio el uso de sistemas personales para detención de caídas (SPDC). Dicho uso
+nunca se debe improvisar y su adopción se debe estipular específicamente en las
+disposiciones formales apropiadas para la seguridad en el lugar de trabajo.
+Los SPDC que cumplen con esta parte de NCh1258 deben cumplir requisitos ergonómicos
+y se deben utilizar sólo si el trabajo permite medios de conexión a un dispositivo de
+anclaje adecuado, de resistencia demostrada y si se pueden implementar sin comprometer
+la seguridad del usuario. Los usuarios deben ser entrenados e instruidos en el uso seguro
+del equipo, además de participar como observadores de tal entrenamiento e instrucción.
+Esta parte de NCh1258 se basa en conocimientos y prácticas vigentes concernientes al uso
+de SPDC que incorporan un arnés para el cuerpo completo como se especifica en
+ISO 10333-1.
+Esta parte de NCh1258 asume que el fabricante de los SPDC, subsistemas o componentes,
+en pro de la consistencia y trazabilidad, operará un sistema de gestión de calidad que
+cumplirá con las disposiciones nacionales vigentes a la fecha. En ISO 90001) (todas sus
+partes), Quality management systems - Fundamentals and vocabulary, se puede encontrar
+una guía sobre la forma que puede tomar este sistema de gestión de calidad.
+
+1)
+
+La equivalencia de esta norma internacional con norma chilena es NCh9000.
+
+1
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+1 Alcance y campo de aplicación
+Esta parte de NCh1258 especifica los requisitos, métodos de ensayo, instrucciones para
+uso y mantenimiento, marcado, etiquetado y embalaje de rieles verticales y líneas de vida
+verticales que incorporan un dispositivo para detención tipo deslizante.
+Cuando los rieles verticales y líneas de vida verticales que incorporan un dispositivo tipo
+deslizante se conectan a un arnés para el cuerpo completo, constituyen un sistema
+personal para detención de caídas (SPDC), los cuales se especifican en ISO 10333-6
+(ver Anexo B, [1]).
+Esta parte de NCh1258, sólo se aplica a rieles verticales y líneas de vida verticales que
+incorporan un dispositivo tipo deslizante limitados al uso de un solo usuario, de una masa
+total menor o igual que 100 kg.
+NOTAS
+1)
+
+A los usuarios de equipos de protección de caídas cuya masa total (incluyendo herramientas y equipo) sea
+mayor que 100 kg, se les aconseja solicitar información a su fabricante con respecto a la aptitud del
+equipo, el cual puede requerir ensayos adicionales.
+
+2)
+
+Los SPDC que utilizan rieles verticales y líneas de vida verticales permanentes limitan intrínsecamente el
+movimiento horizontal del usuario, mientras que los SPDC que utilizan una línea de vida vertical temporal
+permite un movimiento horizontal importante por parte del usuario. Se debería prestar especial atención a
+los requisitos que consideran esta diferencia.
+
+Esta parte de NCh1258 no se aplica a:
+a) líneas de vida o rieles inclinados, es decir, aquellos que se instalan con un ángulo
+entre la vertical a plomo y la línea de vida o riel mayor que 15º cuando es visto en
+elevación;
+b) los elementos instalados horizontalmente de líneas de vida o rieles combinados, es
+decir, aquellos que tienen elementos instalados tanto vertical como horizontalmente
+vinculados mediante uniones.
+Esta parte de NCh1258 no especifica aquellos requisitos adicionales que se podrían
+aplicar cuando los SPDC se someten a condiciones especiales de uso (donde, por ejemplo,
+existen limitaciones inusuales con respecto al acceso al lugar de trabajo y/o factores
+ambientales particulares). De este modo los tratamientos para asegurar la durabilidad de
+los materiales de construcción (tales como tratamiento para el calor, tratamiento
+anticorrosión, protección contra peligros químicos y físicos) no se especifican en esta
+parte de NCh1258, pero deben cumplir con normas nacionales pertinentes o, en su
+defecto, con normas internacionales y otras especificaciones relacionadas con
+características físicas relevantes y/o la seguridad de los usuarios.
+
+2
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+2 Referencias normativas
+Los documentos normativos siguientes contienen disposiciones que, a través de
+referencias en este texto, constituyen requisitos de esta norma. Para referencias con
+fecha, las enmiendas subsecuentes a, o revisiones de éstas, no se aplican a esta
+publicación. Sin embargo, a las partes que tomen acuerdos basados en esta norma, se les
+recomienda investigar la posibilidad de aplicar la edición más reciente del documento
+normativo indicado a continuación. Para referencias sin fecha, se aplica la última edición
+del documento normativo citado. Los miembros de ISO e IEC mantienen los registros de
+las normas internacionales vigentes.
+ISO 1140:1990
+ISO 1141:1990
+ISO 9227:1990
+ISO 10333-1:2000
+ISO 10333-5:2001
+ISO 14567:1999
+EN 892:1996
+EN 1891:1998
+
+Ropes - Polyamide - Specification.
+Ropes - Polyester - Specification.
+Corrosion test in artificial atmospheres - Salt spray test.
+Personal fall-arrest systems - Part 1: Full body harnesses.
+Personal fall-arrest systems - Part 5: Connectors with self-closing
+and self-locking gates.
+Personal protective equipment for protection against falls from a
+height - Single-point anchor devices.
+Mountaineering equipment - Dynamic mountaineering ropes - Safety
+requirements and test methods.
+Personal protective equipment for prevention of falls from a height Low stretch kernmantel ropes.
+
+NOTA EXPLICATIVA NACIONAL
+La equivalencia de las normas internacionales señaladas anteriormente con la norma chilena, y su grado de
+correspondencia es el siguiente:
+Norma internacional
+
+Norma nacional
+
+Grado de correspondencia
+
+ISO 1140:1990
+
+No hay
+
+-
+
+ISO 1141:1990
+
+No hay
+
+-
+
+ISO 9227:1990
+
+NCh904.Of1996
+
+ISO 10333-1:2000
+
+NCh1258/1.Of2004
+
+Modificada
+
+ISO 10333-5:2001
+
+NCh1258/5.Of2005
+
+Modificada
+
+ISO 14567:1999
+
+No hay
+
+-
+
+EN 892:1996
+
+No hay
+
+-
+
+EN 1891:1998
+
+No hay
+
+-
+
+Idéntica
+
+3
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+3 Términos y definiciones
+Para los propósitos de esta parte de NCh1258, se aplican los términos y definiciones
+siguientes:
+3.1 riel vertical: vía rígida que está asegurada permanentemente a una escala fija u otra
+estructura, mediante un número de soportes a intervalos a lo largo de su longitud y a la
+cual, se puede fijar un dispositivo para detención tipo deslizante (ver Figura 1)
+NOTA - El riel puede consistir de un número de secciones mantenidas juntas mediante placas de unión.
+
+3.2 líneas de vida verticales
+3.2.1 línea de vida vertical: línea flexible que se instala temporal o permanentemente
+3.2.2 línea de vida vertical permanente: línea traccionada que está asegurada
+permanentemente para al menos una posición en su extremo superior, para actuar como
+un punto de anclaje seguro (ver Figura 2)
+NOTAS
+1)
+
+Está asegurada permanentemente a una posición en su extremidad inferior a una escala fija u otra
+estructura, a la cual se puede fijar un dispositivo para detención tipo deslizante.
+
+2)
+
+La línea de vida vertical permanente se puede fijar adicionalmente a una escala fija u otra estructura en un
+número de puntos a intervalos a lo largo de su longitud.
+
+3.2.3 línea de vida vertical temporal: línea suspendida, que está asegurada temporalmente
+en su extremo superior a un punto de anclaje más elevado, para que se pueda fijar un
+dispositivo para detención tipo deslizante (ver Figura 3)
+NOTA - La línea de vida vertical temporal puede tener un pequeño peso montado en el extremo inferior para
+mantener una determinada tracción nominal en la línea.
+
+3.3 dispositivo para detención tipo deslizante: dispositivo que está diseñado para fijarse, y
+para deslizarse hacia arriba y hacia abajo, al riel vertical o a la línea de vida vertical en
+respuesta a movimientos ascendentes/descendentes controlados, pero, en respuesta al
+movimiento repentino de una caída, se traba automáticamente al riel vertical o línea de
+vida vertical
+3.4 definiciones sobre líneas de conexión
+3.4.1 línea de conexión: línea, fijada a un dispositivo para detención tipo deslizante, que
+está diseñada para vincular a éste con un punto de fijación para detención de caídas sobre
+el arnés para el cuerpo completo
+NOTA - La línea de conexión puede ser un estrobo, un amortiguador de impacto, un conector, o cualquier
+combinación de estrobo, amortiguador de impacto y conector.
+
+4
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+3.4.2 largo de la línea de conexión: distancia más corta medida entre el punto de
+conexión del extremo de la línea al otro, estando tensada
+3.4.3 estrobo: largo de material flexible terminado, el que se puede utilizar como una
+parte o como el total de una línea de conexión
+3.4.4 amortiguador de impacto con línea de conexión: componente que se puede utilizar
+como una parte o como el total de la línea de conexión, el que está diseñado para disipar
+la energía cinética generada durante una caída y que limita las fuerzas de detención
+ejercidas sobre el riel vertical o línea de vida vertical y sobre el usuario
+3.4.5 conector: componente que se puede utilizar como una parte o como el total de la
+línea de conexión y que se utiliza para unir la línea de conexión al punto de fijación para
+detención de caídas sobre el arnés para el cuerpo completo
+3.5 conector para anclaje: componente que se utiliza para conectar una línea de vida
+vertical temporal directamente a un punto de anclaje más elevado
+3.6 amortiguador de impacto con línea de vida vertical: componente que se puede o no
+incluir en el punto de soporte superior de una línea de vida vertical permanente, o al punto
+de anclaje más elevado de una línea de vida vertical temporal, diseñada para disipar la
+energía cinética generada durante una caída y limitar las fuerzas de detención ejercidas
+sobre la línea de vida, soporte superior/punto de anclaje y usuario
+3.7 punto de apertura: punto diseñado especialmente sobre un riel vertical o línea de vida
+vertical permanente, además de los extremos, donde se puede fijar o desprender un
+dispositivo para detención tipo deslizante
+3.8 aparato de apertura: aparato sobre un dispositivo para detención tipo deslizante que
+permite fijar o desprender el dispositivo para detención en cualquier punto intermedio
+sobre un riel vertical o línea de vida vertical
+3.9 suspensión posterior a la detención de una caída: estado en el cual el usuario,
+después que ha sido detenido completamente por un medio para detención de caídas,
+permanece suspendido en el arnés para el cuerpo completo
+[NCh1258/3]
+3.10 masa total: suma total de la masa del usuario más toda la ropa y equipo adjunto
+[NCh1258/1]
+3.11 masa mínima de ensayo para trabado: masa más pequeña, cercana a 1 kg, la que
+cuando se fija al extremo libre elevado de la línea de conexión y después se libera, causa
+que el dispositivo para detención se trabe sobre el riel vertical o línea de vida vertical y
+permanezca enganchado
+
+5
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+3.12 definiciones generales
+3.12.1 componente: parte constituyente de un SPDC o subsistema que ha completado el
+ciclo de producción del fabricante y está disponible para ser comprado
+[NCh1258/2]
+3.12.2 subsistema: parte constituyente de un SPDC que puede consistir en uno o más
+componentes y que se utiliza para conectar al usuario desde el elemento de fijación para
+detención de caídas del ACC al dispositivo de anclaje
+NOTA - Un subsistema cumple las dos funciones esenciales de un SPDC de:
+a)
+
+conectar;
+
+b)
+
+detener y amortiguar impactos.
+
+[NCh1258/2]
+3.12.3 sistema personal para detención de caídas, SPDC: conjunto de componentes y
+subsistemas interconectados, que incluye un ACC utilizado por el usuario y que cuando es
+conectado a un dispositivo de anclaje apropiado, detiene una caída desde una altura
+NOTA - Un SPDC minimiza las fuerzas de detención de caídas, controla la distancia total de caída de modo de
+impedir una colisión con el piso u otro obstáculo relevante, y mantiene al usuario en una posición posterior a la
+caída apropiada para propósitos de rescate.
+
+[NCh1258/2]
+
+4 Requisitos
+4.1 Generalidades
+4.1.1 El diseño de los componentes, su ubicación y la protección brindada a éstos debe
+ser tal, que impida la posibilidad de afectar su funcionamiento por interferencia casual.
+4.1.2 Los componentes deben contemplar terminaciones suaves y libres de defectos de
+fabricación o material; no deben tener bordes afilados, abrasivos y/o rugosos que puedan
+cortar, desgastar u otra forma de dañar el material o causar heridas al usuario.
+4.1.3 El punto de anclaje para una línea de vida vertical temporal debe cumplir
+con ISO 14567.
+
+6
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.2 Requisitos para rieles verticales
+4.2.1 Diseño del riel
+Un riel vertical se debe diseñar para que:
+a) sea capaz de permanecer sujeto a una escala u otra estructura mediante un número
+de soportes a intervalos recomendados por las instrucciones de instalación del
+fabricante;
+b) permita que el dispositivo para detención tipo deslizante se fije y desprenda al menos
+en los dos extremos del largo del riel, a menos que el dispositivo para detención tipo
+deslizante esté integrado al riel;
+c) permita el movimiento expedito del dispositivo para detención tipo deslizante en
+dirección descendente y ascendente, especialmente en uniones y en soportes
+intermedios;
+d) impida la separación accidental entre el dispositivo para detención tipo deslizante y el
+riel.
+4.2.2 Puntos de fijación y desprendimiento para el dispositivo para detención tipo
+deslizante
+4.2.2.1 Cuando los extremos superior e inferior de un tramo de riel sean utilizados como
+puntos de fijación y desprendimiento por un dispositivo para detención tipo deslizante, se
+deben ajustar con un tope2) de parada para impedir que el dispositivo para detención tipo
+deslizante se desacople accidentalmente del riel.
+4.2.2.2 Cuando los puntos de apertura estén ubicados entre los extremos inferior y
+superior de un tramo de riel, se deben diseñar de modo que, sólo se puedan abrir
+mediante al menos dos operaciones manuales deliberadas consecutivas. Ya cerrado, el
+punto se debe diseñar para que se trabe automáticamente en su lugar mediante el
+enganche de un dispositivo de trabado, de modo que, en condiciones de uso normal, el
+dispositivo para detención tipo deslizante no se llegue a separar accidentalmente del riel.
+
+4.3 Requisitos para líneas de vida verticales permanentes
+4.3.1 Diseño
+Una línea de vida vertical permanente se debe diseñar para que:
+a) sea capaz de permanecer sujeta a una escala u otra estructura en los extremos inferior
+y superior y adicionalmente, si se requiere, mediante un número de soportes a
+intervalos recomendados por las instrucciones de instalación del fabricante;
+
+2)
+
+En inglés: End stop.
+
+7
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+b) una vez instalada, sea capaz de estar traccionada como se recomienda en las
+instrucciones de instalación del fabricante;
+c) permita que el dispositivo para detención tipo deslizante se fije y desprenda en puntos
+a lo largo de la línea de vida, a menos que el dispositivo para detención tipo deslizante
+esté diseñado para estar integrado;
+d) permita el movimiento expedito del dispositivo para detención tipo deslizante en
+dirección descendente y ascendente, especialmente en soportes intermedios;
+e) impida la separación accidental del dispositivo para detención de la línea de vida.
+4.3.2 Puntos de fijación y desprendimiento para el dispositivo para detención tipo
+deslizante
+Cuando los puntos de apertura estén ubicados entre los extremos inferior y superior de la
+línea de vida, se deben diseñar de modo que, sólo se puedan abrir mediante al menos dos
+operaciones manuales deliberadas consecutivas. Ya cerrado, el punto se debe diseñar para
+que se trabe automáticamente en su lugar mediante el enganche de un dispositivo de
+trabado, de modo que, en condiciones de uso normal, el dispositivo para detención tipo
+deslizante no se llegue a separar accidentalmente de la línea de vida.
+
+4.4 Requisitos para líneas de vida verticales temporales
+Una línea de vida vertical temporal se debe diseñar para que:
+a) sea capaz de permanecer sujeta a un punto de anclaje más elevado de acuerdo con
+las instrucciones de instalación del fabricante;
+b) permita que el dispositivo para detención tipo deslizante se fije y desprenda al menos
+en el extremo inferior de la línea de vida, a menos que el dispositivo para detención
+tipo deslizante esté diseñado para estar integrado;
+c) permita el movimiento expedito del dispositivo para detención tipo deslizante en
+dirección descendente y ascendente;
+d) impida la separación accidental del dispositivo para detención de la línea de vida;
+e) sea capaz de permanecer fija con un peso para tracción u otros medios de
+estabilización en el extremo inferior.
+
+8
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.5 Materiales y construcción para líneas de vida verticales
+4.5.1 Cuerdas de fibra y cintas
+4.5.1.1 Las cuerdas de fibra, cintas e hilos de costuras para líneas de vida se deben hacer
+a partir de filamentos vírgenes de alta tenacidad o a partir de multifilamentos de fibras
+sintéticas apropiadas para el uso deseado. La resistencia a la ruptura de las fibras
+sintéticas debe ser al menos 0,6 N/tex.
+4.5.1.2 El número de hebras de una línea de vida extendida debe ser de al menos tres.
+Las líneas de vida de poliamida de tres hebras deben cumplir con ISO 1140 y las líneas de
+vida de poliéster de tres hebras con ISO 1141.
+4.5.1.3 Las líneas de vida construidas de cuerdas trenzadas deben cumplir con EN 892
+(cuerda única) o EN 1891, Tipo A. Se acepta cualquier material equivalente.
+4.5.1.4 Las líneas de vida que se utilizarán en trabajos que se ejecutan cerca de
+estaciones de soldadura, oxicorte o fuentes de calor, se deben proteger mediante
+protección térmica.
+4.5.2 Cables de acero
+El diámetro mínimo del cable de acero utilizado en la construcción de líneas de vida debe
+ser 8 mm.
+4.5.3 Terminaciones
+4.5.3.1 Los empalmes de los ojales en las cuerdas de fibra extendida deben consistir de
+cuatro pliegues que incluyan todos los hilos de las hebras y dos pliegues ahusados. La
+longitud de las colas de empalme que surgen después del último pliegue debe ser de al
+menos un diámetro de la cuerda. Las colas se deben enrollar a la cuerda y proteger con
+una vaina plástica o de goma, o terminar íntegramente de otra forma para impedir el
+deshilachado de la terminación o empalme. Los compuestos sellantes utilizados deben ser
+compatibles con el material de la cuerda. Los ojales se deben formar alrededor de un
+guardacabos plástico o metálico de tamaño y resistencia de acuerdo con las
+recomendaciones del fabricante de la cuerda.
+4.5.3.2 En las terminaciones de los ojales cosidos sobre las líneas de vida de cinta se
+deben utilizar pespuntes trabados y visibles. Los hilos deben ser compatibles con el
+material de la cinta y deben ser de un color contrastante para facilitar la inspección. Se
+debe utilizar un refuerzo u otro método para proteger las terminaciones del uso intenso en
+todas las interfaces cinta-accesorio metálico. Los extremos de las cintas se deben
+chamuscar o proteger de otra forma para evitar el deshilachado.
+
+9
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.5.3.3 Las terminaciones de los ojales de líneas de vida con cables de acero se deben
+fabricar con:
+a) un ojal empalmado con una abrazadera de compresión con guardacabos; o
+b) un ojal con retorno con un mínimo de dos abrazaderas de compresión con
+guardacabos.
+4.5.3.4 La selección de la abrazadera, tamaño, tipo de material, molde de compresión
+tamaño/presión, posición de la o las abrazaderas sobre el cable y tamaño del guardacabos,
+se debe llevar a cabo de acuerdo con las recomendaciones del fabricante del cable. En
+particular, se recomiendan abrazaderas de aluminio para cables de acero y abrazaderas de
+cobre para cables de alambre de acero inoxidable.
+4.5.3.5 Los extremos del cable de acero se deben soldar, enrollar o tener una terminación
+equivalente para impedir el deshilachado. La soldadura se debería llevar a cabo antes de
+formar el ojal.
+4.5.3.6 No se deben utilizar nudos para hacer terminaciones de la línea de vida, a menos
+que esas terminaciones sean permanentes, selladas y hechas por el fabricante. La
+resistencia mínima a la tracción de una terminación tal, debe estar de acuerdo con 4.14.1.
+
+4.6 Amortiguadores de impacto con línea de vida vertical
+4.6.1 Los materiales y mecanismos de los amortiguadores de impacto con línea de vida
+vertical se deben proteger mediante una cubierta protectora de los contaminantes
+externos, objetos afilados y clima adverso.
+4.6.2 Los amortiguadores de impacto que se utilizarán en trabajos que se ejecutan cerca
+de estaciones de soldadura, oxicorte o fuentes de calor, se deben proteger mediante
+protectores apropiados para el calor.
+
+4.7 Requisitos para el dispositivo para detención tipo deslizante
+4.7.1 Diseño
+4.7.1.1 El dispositivo para detención tipo deslizante debe incorporar un sistema de
+trabado automático que sea capaz de impedir, mediante el enganche de un dispositivo de
+frenado, un descenso adicional del dispositivo bajo el riel vertical o línea de vida vertical
+durante una caída. La función de trabado automático no debe depender únicamente del
+sensor de inercia.
+4.7.1.2 Los dispositivos para detención tipo deslizante deben ser capaces de trabarse
+sobre la línea de vida vertical independientemente si la línea de vida está o no tirante o
+floja.
+
+10
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.7.1.3 Si el dispositivo para detención tipo deslizante tiene un sistema de trabado
+manual, el diseño debe ser tal que no sea posible anularlo mediante la función de trabado
+automático.
+4.7.1.4 Si el dispositivo para detención tipo deslizante está equipado con un aparato de
+apertura, éste se debe diseñar de modo que se pueda desprender del riel vertical o línea
+de vida vertical mediante al menos dos operaciones manuales deliberadas consecutivas.
+Ya enganchado al riel vertical o línea de vida vertical, el aparato de apertura se debe
+diseñar para que se llegue a trabar automáticamente mediante la activación de un
+dispositivo de trabado de modo que, en condiciones de uso normal, el dispositivo para
+detención tipo deslizante no se llegue a separar accidentalmente del riel vertical o línea de
+vida vertical.
+4.7.1.5 Si el dispositivo para detención tipo deslizante es capaz de fijarse invertido por
+error al riel vertical o línea de vida vertical, en cualquiera de los dos extremos o en
+cualquier otro punto sobre el riel vertical o línea de vida vertical, de modo que la función
+para detención automática se llegue a dañar o inhabilitar, entonces el dispositivo para
+detención tipo deslizante o riel vertical o línea de vida vertical se debe diseñar para impedir
+esta posibilidad, o el dispositivo se debe marcar claramente para advertir al usuario de
+este peligro.
+4.7.2 Requisitos para líneas de conexión
+4.7.2.1 Largo de la línea de conexión
+El largo de la línea de conexión para sistemas de líneas de vida verticales permanentes y
+rieles verticales no debe ser mayor que 23 cm. El largo de la línea de conexión para
+sistemas de líneas de vida verticales temporales no debe ser mayor que 1,0 m.
+4.7.2.2 Materiales y construcción
+Las cuerdas de fibra, cintas e hilos de costuras para líneas de conexión deben cumplir
+con 4.5.1. Las terminaciones deben cumplir con 4.5.3.
+4.7.2.3 Amortiguadores de impacto con línea de conexión
+4.7.2.3.1 Los materiales y mecanismos de los amortiguadores de impacto con línea de
+conexión se deben proteger mediante una cubierta protectora de los contaminantes
+externos, objetos afilados y clima adverso.
+4.7.2.3.2 Los amortiguadores de impacto que se utilizarán en trabajos que se ejecutan
+cerca de estaciones de soldadura, oxicorte o fuentes de calor, se deben proteger mediante
+protectores apropiados para el calor.
+
+11
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.8 Requisitos para conectores
+Cuando los conectores se puedan remover sin el uso de una herramienta, deben cumplir
+los requisitos de ISO 10333-5. Cuando los conectores requieran el uso de una herramienta
+para ser removidos, deben cumplir lo especificado en ISO 10333-5, 4.3 y 4.4.
+
+4.9 Resistencia a la corrosión
+4.9.1 Cuando se ensaya de acuerdo con 5.2.1, todos los materiales metálicos deben
+estar libres de corrosión del metal base, que sea visible a simple vista. Un dispositivo para
+detención tipo deslizante no debe mostrar signos de corrosión que pueden afectar la
+función de trabado automático. Cuando sea necesario tener acceso a los elementos
+internos, el dispositivo se debe desmontar de acuerdo con las instrucciones del fabricante.
+Se acepta la presencia de sarro blanco o enmohecimiento posterior al ensayo.
+4.9.2 La repetición de ensayos se debe llevar a cabo para cada tipo/tamaño de riel o línea
+de vida especificado para usar con el dispositivo para detención tipo deslizante.
+
+4.10 Comportamiento del trabador, posterior al acondicionamiento
+4.10.1 Una sección de riel vertical o línea de vida vertical que incluya el dispositivo para
+detención tipo deslizante se debe acondicionar con calor de acuerdo con 5.2.2.2, después
+del cual el dispositivo se debe trabar sin deslizamiento subsecuente, y debe ser capaz de
+destrabarse cuando se ensaya de acuerdo con 5.2.2.7.
+4.10.2 Una sección de riel vertical o línea de vida vertical que incluya el dispositivo para
+detención tipo deslizante se debe acondicionar con frío de acuerdo con 5.2.2.3, después
+del cual el dispositivo se debe trabar sin deslizamiento subsecuente, y debe ser capaz de
+destrabarse cuando se ensaya de acuerdo con 5.2.2.7.
+4.10.3 Una sección de riel vertical o línea de vida vertical que incluya el dispositivo para
+detención tipo deslizante se debe acondicionar con agua pulverizada de acuerdo
+con 5.2.2.4, después del cual el dispositivo se debe trabar sin deslizamiento subsecuente,
+y debe ser capaz de destrabarse cuando se ensaya de acuerdo con 5.2.2.7.
+4.10.4 Una sección de riel vertical o línea de vida vertical que incluya el dispositivo para
+detención tipo deslizante se debe acondicionar con polvo de acuerdo con 5.2.2.5,
+después del cual el dispositivo se debe trabar sin deslizamiento subsecuente, y debe ser
+capaz de destrabarse cuando se ensaya de acuerdo con 5.2.2.7.
+4.10.5 Una sección de riel vertical o línea de vida vertical (que excluya el dispositivo para
+detención tipo deslizante) se debe acondicionar con aceite de acuerdo con 5.2.2.6,
+después del cual ésta se debe trabar sin deslizamiento subsecuente, y debe ser capaz de
+destrabarse cuando se ensaya de acuerdo con 5.2.2.7.
+
+12
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.10.6 La repetición de ensayos desde 4.10.1 hasta 4.10.5 se debe llevar a cabo para
+cada tipo/tamaño de riel o línea de vida especificado para usar con el dispositivo para
+detención tipo deslizante.
+
+4.11 Confiabilidad del trabado
+4.11.1 Cuando se ensaya de acuerdo con 5.2.3, el riel vertical o línea de vida vertical que
+incluye el dispositivo para detención tipo deslizante se debe trabar sin deslizamiento
+subsecuente en cada una de las 1 000 operaciones.
+4.11.2 La repetición de los ensayos de 4.11.1 se debe llevar a cabo para cada
+tipo/tamaño de riel o línea de vida especificado para usar con el dispositivo para detención
+tipo deslizante.
+
+4.12 Comportamiento dinámico
+4.12.1 Un riel vertical o línea de vida vertical que incluya un dispositivo para detención
+tipo deslizante y su línea de conexión, se debe incorporar a un SPDC para el propósito del
+ensayo de comportamiento dinámico.
+4.12.2 Cuando se ensaya de acuerdo con Anexo A:
+a) un sistema que incluya cualquier riel vertical o línea de vida vertical debe tener una
+fuerza máxima de detención de 6 kN;
+b) un sistema que incluya un riel vertical o línea de vida vertical permanente debe tener
+una distancia de caída H D registrada no mayor que 1,5 m;
+c) un sistema que incluya una línea de vida vertical temporal debe tener una distancia de
+caída H D registrada no mayor que 2,0 m;
+En cada caso y con el torso de ensayo en posición de reposo después de la caída, no
+debe haber:
+d) rasgadura, fractura o ruptura parcial o total de algún componente (excepto cuando la
+rasgadura se diseña para contribuir a la disipación de energía);
+e) apertura parcial o inadvertida de alguna puerta de conector.
+
+4.13 Resistencia a la tracción de rieles verticales
+4.13.1 Cuando se ensayan de acuerdo con 5.2.4 el riel vertical, el dispositivo para
+detención tipo deslizante y la línea de conexión deben soportar una fuerza de 15 kN y,
+con la excepción de los dispositivos de disipación de energía, sin que se rompa en forma
+parcial o total algún componente.
+
+13
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+4.13.2 La repetición de los ensayos de 4.13.1 se debe llevar a cabo para cada
+tipo/tamaño de riel vertical especificado para usar con el dispositivo para detención tipo
+deslizante.
+
+4.14 Resistencia a la tracción de líneas de vida verticales
+4.14.1 Cuando se ensayan de acuerdo con 5.2.4 la línea de vida vertical, el dispositivo
+para detención tipo deslizante y la línea de conexión deben soportar una fuerza como se
+especifica en Tabla 1 y, con excepción de los dispositivos de disipación de energía, sin
+que se rompa en forma parcial o total algún componente.
+4.14.2 La repetición de los ensayos de 4.14.1 se debe llevar a cabo para cada
+tipo/tamaño de línea de vida vertical especificado para usar con el dispositivo para
+detención tipo deslizante.
+Tabla 1 - Fuerzas de ensayo para líneas de vida verticales (LVV)
+Tipo
+
+Fuerza ejercida
+kN
+
+LVV en base a cables de acero
+
+15
+
+LVV en base a cuerdas de fibra
+
+22
+
+LVV en base a cintas
+
+22
+
+NOTA - El requisito de resistencia más alto para materiales textiles es necesario ya que
+esos materiales son más propensos a desgastarse y más vulnerables de dañar que sus
+homólogos metálicos.
+
+5 Aparatos y métodos de ensayo
+5.1 Aparatos
+5.1.1 Aparato para ensayo de tracción
+Se requiere un marco de ensayo, un extractor cabrestante o hidráulico con indicador de
+carga, con suficiente recorrido para cargar los componentes para el ensayo.
+5.1.2 Masa de ensayo
+Se requiere un rango de masas de acero desde 5 kg hasta 10 kg en incrementos de 1 kg,
+apropiadas para el ensayo particular, conectadas rígidamente a un cáncamo que
+proporcione un punto de conexión seguro.
+5.1.3 Aparato para ensayo de resistencia a la corrosión
+El aparato debe ser capaz de cumplir con lo especificado en el procedimiento de ensayo
+para niebla salina neutra descrito en ISO 9227.
+
+14
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+5.1.4 Aparatos para ensayos de acondicionamiento
+5.1.4.1 Calor
+La cámara debe ser capaz de mantener la temperatura a (40 ± 2)ºC y una humedad
+relativa a (85 ± 5)%.
+5.1.4.2 Frío
+La cámara refrigerada debe ser capaz de mantener la temperatura a (-30 ± 2)ºC.
+5.1.4.3 Agua pulverizada
+El aparato para pulverizar agua debe ser capaz de entregar una tasa de aproximadamente
+70 L/h dentro de un rango de temperatura de 10ºC a 30ºC.
+5.1.4.4 Polvo
+El aparato debe consistir de una caja equipada con un ventilador y un filtro de aire, de
+capacidad interna 1 m3 y con mecanismos para agitar polvo con ráfagas de aire desde un
+alimentador de 6 bar. También debe permitir que un cordón flexible pase verticalmente a
+través de la parte superior de la caja, para la operación del mecanismo durante el ensayo.
+5.1.5 Aparato para ensayo de confiabilidad del trabado
+El aparato debe ser capaz de trabar y destrabar repetidamente el dispositivo para
+detención tipo deslizante en cada una de las 1 000 operaciones, bajo la aceleración
+gravitacional de una masa que cae.
+
+5.2 Métodos de ensayo
+NOTA - Se debe suministrar un nuevo espécimen para cada ensayo.
+
+5.2.1 Ensayo de resistencia a la corrosión
+5.2.1.1 El aparato debe cumplir con 5.1.3.
+5.2.1.2 Cuando sean de metal, una muestra de riel vertical o línea de vida vertical, el
+dispositivo para detención tipo deslizante y soportes de fijación se deben someter al
+ensayo de niebla salina neutra de acuerdo con ISO 9227, con una exposición inicial
+de 24 h, seguida por 1 h de secado, seguida por una segunda exposición de 24 h.
+5.2.1.3 Después del ensayo y si es necesario desmontar de acuerdo con las instrucciones
+del fabricante, los ítemes se deben examinar para evidenciar la corrosión considerando el
+criterio especificado en 4.9.
+
+15
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+5.2.2 Ensayos de trabado después del acondicionamiento
+5.2.2.1 Determinación del tamaño de la masa de ensayo de trabado
+5.2.2.1.1 Fijar temporalmente una sección de 1 m de riel vertical o línea de vida vertical a
+una estructura apropiada y fijar el dispositivo para detención tipo deslizante. Conectar una
+masa de ensayo de 5 kg al extremo libre de la línea de conexión. Elevar manualmente la
+masa mediante su cáncamo y llevarla a una posición por sobre la sección, de modo que el
+dispositivo esté traccionado. Con la masa en su posición más alta en relación al
+dispositivo, dejar que caiga y observar si ésta se detiene.
+5.2.2.1.2 En la distancia disponible, la masa de 5 kg puede ser insuficiente para activar el
+mecanismo de trabado del dispositivo para detención tipo deslizante; o la masa de ensayo
+puede rebotar varias veces antes que sea detenida finalmente. En tales casos, aumentar la
+masa de ensayo mediante incrementos de 1 kg, hasta que el dispositivo detenga
+satisfactoriamente a la masa. En ningún caso la masa de ensayo debe ser mayor
+que 30 kg.
+5.2.2.1.3 Utilizar el tamaño establecido de masa de ensayo para trabado para evaluar la
+capacidad de trabado en los ensayos de acondicionamiento.
+5.2.2.2 Acondicionamiento con calor
+5.2.2.2.1 El aparato para acondicionamiento con calor debe cumplir con 5.1.4.1 y la
+masa de ensayo con 5.2.2.1.
+5.2.2.2.2 Con un dispositivo para detención tipo deslizante fijado, colocar una sección de
+1,0 m de riel vertical o línea de vida vertical en la cámara por un período de 2 h a una
+temperatura de (40 ± 2)ºC y a una humedad relativa de (85 ± 5)%. Retirar los ítemes y
+antes que transcurran 90 s, ensayar con la masa mínima de ensayo para trabado de
+acuerdo con 5.2.2.7.
+5.2.2.3 Acondicionamiento con frío
+5.2.2.3.1 El aparato para acondicionamiento con frío debe cumplir con 5.1.4.2 y la masa
+de ensayo con 5.2.2.1.
+5.2.2.3.2 Con un dispositivo para detención tipo deslizante fijado, colocar una sección de
+1,0 m de riel vertical o línea de vida vertical en la cámara por un período de 2 h a una
+temperatura de (-30 ± 2)ºC. Retirar los ítemes y antes que transcurran 90 s, ensayar con
+la masa mínima de ensayo para trabado de acuerdo con 5.2.2.7.
+5.2.2.4 Acondicionamiento con agua pulverizada
+5.2.2.4.1 El aparato para acondicionamiento con agua pulverizada debe cumplir
+con 5.1.4.3 y la masa de ensayo con 5.2.2.1.
+
+16
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+5.2.2.4.2 Con un dispositivo para detención tipo deslizante fijado, colocar una sección
+de 1,0 m de riel vertical o línea de vida vertical en el aparato y pulverizar agua sobre ésta
+dentro de un rango de temperatura de 10ºC a 30ºC por 3 h a una tasa de
+aproximadamente 70 L/h. Retirar los ítemes y antes que transcurran 90 s, ensayar con la
+masa mínima de ensayo para trabado de acuerdo con 5.2.2.7.
+5.2.2.5 Acondicionamiento con polvo
+5.2.2.5.1 El aparato para acondicionamiento con polvo debe cumplir con 5.1.4.4 y la
+masa de ensayo con 5.2.2.1.
+5.2.2.5.2 Con un dispositivo para detención tipo deslizante fijado, instalar una sección
+de 1,0 m de riel vertical o línea de vida vertical en la caja de modo que la sección esté
+vertical. Fijar una cuerda al dispositivo e insertarla a través de la tapa de la caja, de modo
+que el dispositivo se pueda elevar y bajar sobre el riel vertical o línea de vida vertical con
+la tapa sobre la caja.
+5.2.2.5.3 Introducir (4,5 ± 0,5) kg de cemento seco sobre el fondo de la caja y, a
+intervalos de 5 min, agitar ésta mediante la proyección de ráfagas de aire por un período
+de 2 s en dirección descendente. Después de 1 h, coincidentemente con las ráfagas de
+aire, comenzar a ejecutar la secuencia de movimientos siguiente.
+5.2.2.5.4 Elevar el dispositivo hasta donde la tapa lo permita y bajar hasta el fondo de la
+caja. Repetir esta operación 10 veces. Repetir esta secuencia de movimientos a intervalos
+de 1 h hasta que se hayan completado cinco secuencias de movimientos.
+5.2.2.5.5 Después de la secuencia de movimiento final, detener la ráfaga de aire. Dejar
+que el polvo se asiente por un mínimo de 15 min y retirar los ítemes de la caja. Antes que
+transcurran 90 s, ensayar con la masa mínima de ensayo para trabado de acuerdo
+con 5.2.2.7.
+5.2.2.6 Acondicionamiento con aceite
+5.2.2.6.1 La masa de ensayo debe cumplir con 5.2.2.1.
+5.2.2.6.2 Sumergir una sección de 1,0 m de riel vertical o línea de vida vertical (sin el
+dispositivo para detención tipo deslizante) en aceite Diesel de grado comercial a una
+temperatura de (20 ± 2)ºC por un período no menor que 30 min. Dejar el riel vertical o
+línea de vida vertical colgando libremente y que estile por 24 h. Dentro de 1 h después del
+período de estilado de 24 h, ensayar con la masa mínima de ensayo para trabado de
+acuerdo con 5.2.2.7.
+
+17
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+5.2.2.7 Ensayo de trabado
+Fijar temporalmente una sección de riel vertical o línea de vida vertical a una estructura
+apropiada y fijar el dispositivo para detención tipo deslizante. Conectar la masa mínima de
+ensayo para trabado como se establece en 5.2.2.1 al extremo libre de la línea de
+conexión. Elevar manualmente la masa mediante su cáncamo de modo que el dispositivo
+esté traccionado para una posición por sobre la sección. Con la masa en su posición más
+alta en relación al dispositivo, dejar que caiga y observar que el dispositivo trabe y
+detenga a la masa y que éste se pueda destrabar después del ensayo.
+5.2.3 Ensayo de confiabilidad del trabado
+5.2.3.1 El aparato debe cumplir con 5.1.5 y la masa de ensayo con 5.2.2.1.
+5.2.3.2 Con un dispositivo para detención tipo deslizante fijado, asegurar una sección de
+riel vertical o línea de vida vertical en el aparato de modo que la sección esté vertical.
+Conectar la masa mínima de ensayo para trabado como se establece en 5.2.2.1 al
+extremo libre de la línea de conexión. Elevar la masa de modo que el dispositivo se mueva
+sobre una distancia mínima de 300 mm, y al término de cada movimiento hacer que el
+dispositivo se trabe a causa de la caída de la masa.
+5.2.3.3 Repetir por un total de 1 000 movimientos relativos. Asegurar que los
+dispositivos se traben durante cada movimiento.
+5.2.4 Ensayo de resistencia a la tracción
+5.2.4.1 El aparato debe cumplir con 5.1.1.
+5.2.4.2 Conectar una sección de riel vertical o línea de vida vertical en el plano vertical a
+una estructura apropiada como se muestra en Figura 4, de acuerdo con las instrucciones
+de instalación del fabricante. Fijar el correspondiente dispositivo para detención tipo
+deslizante y trabar éste al riel vertical o línea de vida vertical. Si el espécimen de ensayo
+es un riel vertical, incluir una unión como parte del espécimen y trabar el dispositivo sobre
+la unión.
+5.2.4.3 Fijar el aparato para ensayo de tracción al extremo libre de la línea de conexión
+del dispositivo como se indica, de modo que cuando se aplica, la fuerza de ensayo:
+a) reaccione en contra mediante la activación del trabador del dispositivo;
+b) sea aplicada al riel vertical o línea de vida vertical, dispositivo y línea de conexión
+simultáneamente;
+c) sea aplicada paralela al riel vertical o línea de vida vertical.
+
+18
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+5.2.4.4 Aplicar una tracción inicial adecuada para desplegar completamente cualquier
+mecanismo o material que disipe energía que sea integral a la línea de conexión o al
+dispositivo, enseguida aplicar una fuerza de ensayo de 15 kN en el caso de un riel vertical,
+o de acuerdo con Tabla 1 para una línea de vida vertical. La tasa de tensión no debe ser
+mayor que (150 ± 10) mm/min.
+5.2.4.5 Mantener la fuerza de ensayo por un período de 5 min. Observar que no haya
+fractura o ruptura de algún elemento en la trayectoria del soporte de la carga.
+Una vez que la respectiva tracción se ha soportado por el período de 5 min se permite
+continuar con el ensayo hasta la destrucción, a fin de evaluar la carga y modo de falla.
+
+6 Instrucciones para uso general, marcado y embalaje
+6.1 Instrucciones para uso general
+Con cada riel vertical o línea de vida vertical y correspondiente dispositivo para detención
+tipo deslizante se deben proporcionar instrucciones claras y en idioma español para el
+acople, ajuste y uso. Tales instrucciones también deben incluir la información siguiente:
+a) el nombre del fabricante;
+b) cuando sea apropiado, el nombre y dirección del proveedor u otra información que
+permita identificar al proveedor;
+c) una declaración de las aplicaciones y limitaciones del producto, y que éste sólo debe
+ser utilizado por una persona que ha sido entrenada en su uso seguro;
+d) una advertencia en contra de hacer cualquier tipo de alteración o adición al producto;
+e) una advertencia sobre el peligro que puede surgir por el uso de combinaciones de
+componentes y/o subsistemas en las cuales la función de seguridad de algún
+componente y/o subsistema es afectada por, o interfiere con, la función de seguridad
+de otro;
+f)
+
+una advertencia sobre el hecho que los dispositivos son sólo para ser utilizados con el
+riel vertical o línea de vida vertical y que han sido ensayados como conjunto;
+
+g) una instrucción para hacer una inspección visual del equipo inmediatamente antes de
+su uso y para asegurar que el equipo está en una condición de servicio y opera
+correctamente;
+h) una lista de instrucciones y criterios de aceptación/rechazo de modo que el usuario
+pueda asegurar que el equipo está en condiciones de servicio y que está operando
+correctamente antes de su uso;
+
+19
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+i)
+
+consejos sobre las limitaciones de los materiales utilizados en el producto que afectan
+su comportamiento, por ejemplo temperatura (especialmente entorno a operaciones de
+soldadura y oxicorte), el efecto de los bordes afilados y/o abrasivos, reactivos
+químicos, cortes, desgaste, degradación UV y una recomendación respecto a que, en
+caso de duda, el usuario debe consultar al fabricante;
+
+j)
+
+una advertencia sobre el efecto que un dispositivo para detención no es apropiado
+para usar en situaciones cuando el usuario está, o puede llegar a estar, posicionado
+sobre superficies inestables, material de grano fino o sólidos particulados tales como
+arena o carbón;
+
+k) instrucciones de almacenamiento;
+l)
+
+instrucciones para limpieza y/o lavado;
+
+m) instrucciones de mantenimiento;
+n) una advertencia con respecto a la inspección periódica del equipo, al menos una vez al
+año, que tome en cuenta las condiciones de uso y que sea realizada por una persona
+competente de acuerdo a las instrucciones del fabricante;
+o) una advertencia con respecto a que sólo el fabricante debe reparar el equipo o una
+persona competente autorizada apropiadamente por él;
+p) directrices concernientes a la inspección del equipo y a los factores que causan el
+rechazo del equipo;
+q) una instrucción de que cualquier equipo que ha sido utilizado para detener una caída
+debe quedar fuera de servicio y sujeto a inspección y aprobación por una persona
+competente antes de la reutilización;
+r)
+
+se debe considerar un aviso para antes y durante el uso, de cómo cualquier rescate se
+puede llevar a cabo en forma segura y eficiente;
+
+s) una instrucción que indique que cuando un dispositivo para detención se suministra
+para usarlo, el usuario debe estar informado que éste será parte de un sistema el cual
+asegurará que la fuerza de detención no será mayor que 6 kN;
+t)
+
+una advertencia que indique que los rieles verticales o líneas de vida verticales con
+dispositivos para detención tipo deslizante que cumplen con esta parte de NCh1258
+se limitan al uso de un solo usuario de masa total (incluyendo herramientas y equipo)
+menor o igual que 100 kg;
+
+u) instrucciones sobre como instalar líneas de vida verticales temporales y como
+conectarlas a puntos de anclaje, referenciadas a ISO 14567 si es necesario;
+v) instrucciones sobre como conectar adecuadamente la línea de conexión del dispositivo
+a un arnés para el cuerpo completo;
+
+20
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+w) una advertencia con respecto a que debe existir el espacio libre, para así asegurar que
+la detención de una caída se lleve a cabo, sin que el usuario colisione con algún
+obstáculo o el piso (esto debe incluir información con respecto a la construcción de
+líneas verticales y sus características de elongación);
+x) una advertencia sobre el hecho que la línea de conexión utilizada con el dispositivo, no
+debería bajo ninguna circunstancia ser mayor que el largo de la línea de conexión
+especificada por el fabricante (el largo máximo de la línea de conexión se debe incluir
+en las instrucciones);
+y) una advertencia e instrucciones apropiadas con respecto al procedimiento y
+orientación correcta para cuando se fija el dispositivo al riel vertical o línea de vida
+vertical, tanto en los extremos del sistema o en los puntos de apertura como cuando
+se utilizan dispositivos de apertura.
+
+6.2 Marcado
+6.2.1 Los dispositivos para detención tipo deslizante se deben marcar clara e
+indeleblemente o etiquetar permanentemente con la información siguiente:
+a) el número de esta parte de NCh1258, es decir, NCh1258/4;
+b) el nombre, marca registrada u otros medios de identificación del fabricante o
+proveedor responsable;
+c) información respecto a la identificación del producto del fabricante que incluya el
+número de partida o serie que permita trazar el origen del ítem;
+d) el año de fabricación;
+e) una advertencia sobre la lectura y seguimiento de las instrucciones del fabricante;
+f)
+
+una declaración con respecto a que el dispositivo para detención tipo deslizante está
+diseñado para usar solamente con el riel vertical o línea de vida vertical específico
+identificado como tal por el fabricante;
+
+g) marcas para indicar la orientación correcta cuando se use;
+h) el largo máximo de la línea de conexión especificada por el fabricante.
+6.2.2 El riel vertical o línea de vida vertical se debe marcar clara e indeleblemente o
+etiquetar permanentemente con la información siguiente:
+a) la identificación del material de construcción;
+b) el largo del riel o línea de vida;
+
+21
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+c) una advertencia sobre la lectura y seguimiento de las instrucciones del fabricante;
+d) una advertencia con respecto a la inspección periódica de la línea de anclaje, al menos
+una vez al año, que tome en cuenta las condiciones de uso y que sea realizada por
+una persona competente de acuerdo a las instrucciones del fabricante.
+
+6.3 Embalaje
+6.3.1 Los elementos textiles de los equipos de seguridad se deben suministrar envueltos,
+pero no necesariamente sellados, con material que proporcione cierta resistencia a la
+humedad.
+6.3.2 Fabricantes y proveedores deben tener todo el cuidado razonable para asegurar que
+su producto esté suficientemente embalado como para impedir daños y deterioro durante
+su transporte.
+6.3.3 Cuando existan condiciones ambientales severas o cuando se especifiquen
+condiciones especiales para almacenamiento por un período prolongado de tiempo o por
+requisitos de transporte, el comprador debe informar de estas condiciones al proveedor y
+llegar a un acuerdo con éste en la forma de realizar el suministro.
+
+22
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+23
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+24
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+25
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+26
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+Anexo A
+(Normativo)
+
+Ensayos de comportamiento dinámico
+A.1 Generalidades
+Este anexo especifica ensayos de comportamiento dinámico para rieles verticales y líneas
+de vida verticales que incorporan un dispositivo para detención tipo deslizante.
+En Figura A.1 se muestran ejemplos de sistemas personales para detención de caídas que
+incorporan rieles verticales y líneas de vida verticales, y de cómo se pueden conectar
+juntos sistemas y componentes.
+
+A.2 Aparatos
+A.2.1 Torso de ensayo, con las dimensiones especificadas en Figura A.2. Los cáncamos
+de suspensión deben tener un diámetro interior de 40 mm y un diámetro máximo de
+sección transversal de 16 mm. La superficie debería ser suave y, si está construida de
+madera, debe ser enlacada o barnizada.
+A.2.2 Estructura de ensayo, de construcción rígida, con una frecuencia natural de
+vibración en el eje vertical donde se debe fijar el dispositivo de anclaje del sistema
+personal para detención de caídas, mayor o igual que 100 Hz y de modo que la aplicación
+de una fuerza de 20 kN sobre ese punto no cause una deflexión mayor que 1 mm.
+La estructura de ensayo puede contar con un punto de anclaje rígido consistente de una
+argolla de calibre (20 ± 1) mm y una sección transversal de (15 ± 1) mm de diámetro, o
+una barra de sección transversal con el mismo diámetro. Cuando sea necesario instalar
+subsistemas y dispositivos de anclaje específicos, se aceptan métodos alternativos de
+fijación a la estructura de ensayo.
+La estructura de ensayo debe estar a una altura de modo que impida que el torso de
+ensayo golpee el piso durante el ensayo dinámico. Debe haber espacio suficiente bajo la
+posición anterior a la liberación del torso de ensayo para permitir factores tales como
+caída libre, largo del sistema personal para detención de caídas, extensión del sistema
+personal para detención de caídas, estiramiento del arnés para el cuerpo completo y la
+altura del torso de ensayo.
+A.2.3 Dispositivo de liberación rápida, compatible con los cáncamos del torso de ensayo o
+conectores, el cual asegure la liberación del torso de ensayo sin ninguna velocidad inicial.
+
+27
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+A.2.4 Instrumentación para medición de fuerza, capaz de medir fuerzas desde 1,2 kN
+hasta 20 kN con una exactitud de ± 2% y que soporte una fuerza de 50 kN sin daños,
+configurada para llevar a cabo mediciones con una banda continuamente activa hasta
+100 Hz pero con una tasa mínima de muestreo de 1 000 Hz.
+El sistema de medición de fuerza de detención debe tener una frecuencia de vértice de
+100 Hz y características de respuesta de frecuencia que estén dentro del área achurada
+ilustrada en Figura A.3.
+Se requiere un registrador para obtener la traza temporal de la fuerza, tanto para tiempo
+real (cuando se registra con un dispositivo de medición auxiliar) como para un tiempo
+posterior, después de almacenar la información.
+
+A.3 Ensayo de comportamiento para un sistema personal para detención de
+caídas que incluya una línea de vida vertical temporal
+A.3.1 Preparación
+A.3.1.1 Los componentes/subsistemas específicos suministrados para el ensayo deben
+incluir:
+a) un dispositivo de anclaje;
+b) una línea de vida vertical temporal y un dispositivo para detención tipo deslizante;
+c) un arnés para el cuerpo completo;
+d) el número de conectores requerido.
+A.3.1.2 Asegurar el dispositivo de anclaje a la estructura de ensayo y montar los
+componentes/subsistemas en el sistema personal para detención de caídas previsto, de
+acuerdo con las instrucciones del fabricante.
+
+A.3.2 Ensayo
+A.3.2.1 Colocar el arnés para el cuerpo completo al torso de ensayo como lo haría un
+usuario, de acuerdo con las instrucciones del fabricante. Se deben hacer todos los ajustes
+para asegurar una postura cómoda del arnés para el cuerpo completo al torso de ensayo.
+A.3.2.2 Elevar el torso de ensayo en postura vertical. Fijar el dispositivo para detención
+tipo deslizante a la línea de vida vertical temporal de acuerdo con las instrucciones del
+fabricante. Fijar la línea de conexión del dispositivo para detención tipo deslizante al punto
+de fijación para detención de caídas del arnés para el cuerpo completo utilizando un
+conector, y fijar el extremo superior de la línea de vida vertical a la celda de carga, la que
+debe estar fijada al dispositivo de anclaje asegurado a la estructura de ensayo.
+
+28
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+A.3.2.3 Elevar el torso de ensayo a la altura máxima permitida por el largo de la línea de
+conexión del dispositivo para detención tipo deslizante y asegurar al dispositivo de
+liberación rápida [ver Figura A.4 a)], de modo que el dispositivo para detención tipo
+deslizante esté a un máximo de 300 mm desde donde la línea de vida vertical se conecta
+a la celda de carga. Medir y registrar la altura H Q (la distancia desde el lado inferior del
+torso de ensayo hasta el piso). Asegurar que antes de la liberación, el cáncamo de
+levantamiento del torso de ensayo esté a una distancia horizontal máxima de 300 mm
+desde el eje vertical del punto de anclaje del sistema personal para detención de caídas.
+A.3.2.4 Liberar el torso de ensayo. Medir y registrar la fuerza con respecto al tiempo. Con
+el torso de ensayo en reposo [ver Figura A.4 b)], medir y registrar la altura H G
+(la distancia entre el lado inferior del torso de ensayo y el piso). Calcular y registrar la
+distancia de caída H D :
+
+H D = HQ − HG
+A.3.2.5 Con el torso de ensayo en suspensión después de la caída, observar y registrar si
+hay alguna rasgadura o ruptura de la línea de vida vertical temporal o dispositivo para
+detención tipo deslizante, excepto donde la rasgadura fue diseñada deliberadamente para
+contribuir a la disipación de energía. Repetir el examen con el sistema personal para
+detención de caídas desmontado.
+A.3.2.6 Repetir el ensayo de comportamiento descrito desde A.3.2.1 hasta A.3.2.5 para
+cada tipo o tamaño de línea de vida especificado para usar con el dispositivo para
+detención tipo deslizante. En cada caso se debe suministrar un nuevo conjunto de
+componentes/subsistemas.
+
+A.4 Ensayo de comportamiento para un sistema personal para detención de
+caídas que incluya una línea de vida vertical permanente
+A.4.1 Preparación
+A.4.1.1 Los componentes/subsistemas específicos suministrados para el ensayo deben
+incluir:
+a) el número de dispositivos de anclaje requerido;
+b) una línea de vida vertical permanente y un dispositivo para detención tipo deslizante;
+c) un arnés para el cuerpo completo;
+d) el número de conectores requerido.
+
+29
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+A.4.1.2 Asegurar la línea de vida vertical permanente y cualquier soporte intermedio a la
+estructura de ensayo y montar los componentes/subsistemas en el sistema personal para
+detención de caídas previsto, de acuerdo con las instrucciones del fabricante.
+
+A.4.2 Ensayo
+A.4.2.1 Colocar el arnés para el cuerpo completo suministrado al torso de ensayo como lo
+haría un usuario, de acuerdo con las instrucciones del fabricante. Se deben hacer todos
+los ajustes para asegurar una postura cómoda del arnés para el cuerpo completo al torso
+de ensayo.
+A.4.2.2 Elevar el torso de ensayo en postura vertical. Fijar el dispositivo para detención
+tipo deslizante a la línea de vida vertical permanente de acuerdo con las instrucciones del
+fabricante. Utilizando los conectores suministrados, conectar un extremo de la celda de
+carga a la línea de conexión del dispositivo para detención tipo deslizante y el otro al
+punto de fijación ubicado a la altura del esternón del arnés para el cuerpo completo.
+A.4.2.3 Con el dispositivo para detención tipo deslizante posicionado equidistante del
+punto de soporte superior y del siguiente de la línea de vida vertical permanente, elevar el
+torso de ensayo hasta la altura máxima permitida por el largo de la línea de conexión del
+dispositivo para detención tipo deslizante, con la celda de carga colgando hacia abajo [ver
+Figuras A.5 a) y A.6], y asegurar al dispositivo de liberación rápida.
+NOTAS
+1)
+
+La celda de carga se puede mantener en esta posición antes de la liberación del torso de ensayo mediante
+el uso de una cuerda pequeña. Esta se ata al extremo superior de la celda de carga y al conector u otro
+equipo que sostenga al torso de ensayo al dispositivo de liberación rápida, y se libera al mismo tiempo
+que torso de ensayo.
+
+2)
+
+La celda de carga se tiene que mantener en la posición anterior a la liberación ya que de otro modo su
+largo físico podría contribuir significativamente a la caída libre del torso de ensayo durante el ensayo de
+comportamiento.
+
+A.4.2.4 Medir y registrar la altura H Q (la distancia desde el lado inferior del torso de
+ensayo hasta el piso). Asegurar que antes de la liberación, el cáncamo de levantamiento
+del torso de ensayo esté a una distancia horizontal máxima de 300 mm desde la línea de
+vida vertical permanente.
+A.4.2.5 Liberar el torso de ensayo. Medir y registrar la fuerza con respecto al tiempo. Con
+el torso de ensayo en reposo [ver Figura A.5 b)], medir y registrar la altura H G
+(la distancia entre el lado inferior del torso de ensayo y el piso). Calcular y registrar la
+distancia de caída H D :
+
+H D = HQ − HG
+
+30
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+A.4.2.6 Con el torso de ensayo en suspensión después de la caída, observar y registrar si
+hay una alguna rasgadura o ruptura de la línea de vida vertical permanente o dispositivo
+para detención tipo deslizante (excepto donde la rasgadura fue diseñada deliberadamente
+para contribuir a la disipación de energía). Repetir el examen con el sistema personal para
+detención de caídas desmontado.
+A.4.2.7 Repetir el ensayo de comportamiento descrito desde A.4.2.1 hasta A.4.2.6 para
+cada tipo o tamaño de línea de vida especificado para usar con el dispositivo para
+detención tipo deslizante. En cada caso se debe suministrar un nuevo conjunto de
+componentes/subsistemas.
+
+A.5 Ensayo de comportamiento para un sistema personal para detención de
+caídas que incluya un riel vertical
+A.5.1 Preparación
+A.5.1.1 Los componentes/subsistemas específicos suministrados para el ensayo deben
+incluir:
+a) el número de dispositivos de anclaje requerido;
+b) un riel vertical y un dispositivo para detención tipo deslizante;
+c) un arnés para el cuerpo completo;
+d) el número de conectores requerido.
+A.5.1.2 Asegurar el riel vertical y los soportes intermedios a la estructura de ensayo y
+montar los componentes/subsistemas en el sistema personal para detención de caídas
+previsto, de acuerdo con las instrucciones del fabricante.
+
+A.5.2 Ensayo
+A.5.2.1 Colocar el arnés para el cuerpo completo al torso de ensayo como lo haría un
+usuario, de acuerdo con las instrucciones del fabricante. Se deben hacer todos los ajustes
+para asegurar una postura cómoda del arnés para el cuerpo completo al torso de ensayo.
+A.5.2.2 Elevar el torso de ensayo en postura vertical. Fijar el dispositivo para detención
+tipo deslizante al riel vertical de acuerdo con las instrucciones del fabricante. Utilizando los
+conectores suministrados, conectar un extremo de la celda de carga a la línea de conexión
+del dispositivo para detención tipo deslizante y el otro al punto de fijación ubicado a la
+altura del esternón del arnés para el cuerpo completo.
+
+31
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+A.5.2.3 Con el dispositivo para detención tipo deslizante posicionado equidistante del
+punto de soporte superior y del siguiente del riel vertical, elevar el torso de ensayo hasta
+la altura máxima permitida por el largo de la línea de conexión del dispositivo para
+detención tipo deslizante, con la celda de carga colgando hacia abajo [ver Figuras A.7 a)
+y A.8], y asegurar al dispositivo de liberación rápida.
+NOTAS
+1)
+
+La celda de carga se puede mantener en esta posición antes de la liberación del torso de ensayo mediante
+el uso de una cuerda pequeña. Esta se ata al extremo superior de la celda de carga y al conector u otro
+equipo que sostenga al torso de ensayo al dispositivo de liberación rápida, y se libera al mismo tiempo
+que el torso de ensayo.
+
+2)
+
+La celda de carga se tiene que mantener en la posición anterior a la liberación ya que de otro modo su
+largo físico podría contribuir significativamente a la caída libre del torso de ensayo durante el ensayo de
+comportamiento.
+
+A.5.2.4 Medir y registrar la altura H Q (la distancia desde el lado inferior del torso de
+ensayo hasta el piso). Asegurar que antes de la liberación, el cáncamo de levantamiento
+del torso de ensayo esté a una distancia horizontal máxima de 300 mm desde el riel
+vertical.
+A.5.2.5 Liberar el torso de ensayo. Medir y registrar la fuerza con respecto al tiempo. Con
+el torso de ensayo en reposo [ver Figura A.7 b)], medir y registrar la altura H G
+(la distancia entre el lado inferior del torso de ensayo y el piso). Calcular y registrar la
+distancia de caída H D :
+
+H D = HQ − HG
+A.5.2.6 Con el torso de ensayo en suspensión después de la caída, observar y registrar si
+hay una alguna rasgadura o ruptura del riel vertical o dispositivo para detención tipo
+deslizante (excepto donde la rasgadura fue diseñada deliberadamente para contribuir a la
+disipación de energía). Repetir el examen con el sistema personal para detención de caídas
+desmontado.
+A.5.2.7 Repetir el ensayo de comportamiento descrito desde A.5.2.1 hasta A.5.2.6 para
+cada tipo o tamaño de riel vertical especificado para usar con el dispositivo para detención
+tipo deslizante. En cada caso se debe suministrar un nuevo conjunto de
+componentes/subsistemas.
+
+32
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+33
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+34
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+35
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+36
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+37
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+38
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+39
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+40
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+Anexo B
+(Informativo)
+
+Bibliografía
+[1] ISO 10333-6:2004 Personal fall-arrest systems - Part 6: Systems performance test.
+NOTA EXPLICATIVA NACIONAL
+La equivalencia de la norma internacional señalada anteriormente con norma chilena, y su grado de
+correspondencia es el siguiente:
+Norma internacional
+ISO 10333-6:2004
+
+Norma nacional
+NCh1258/6.Of2005
+
+Grado de correspondencia
+Modificada
+
+41
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+Anexo C
+(Informativo)
+
+Justificación de los cambios editoriales
+Tabla C.1 - Cambios editoriales
+Cláusula/subcláusula
+
+Cambios editoriales
+
+Justificación
+
+En toda la norma.
+
+Se reemplaza “esta parte de ISO 10333” La norma es de alcance nacional.
+por “esta parte de NCh1258”.
+
+1
+
+Se traduce “Scope” como “Alcance y Dejar explícito que en cláusula 1 se
+campo de aplicación”.
+especifica claramente además del
+alcance, el campo de aplicación de
+la norma.
+
+1
+
+Se agrega una nota al pie de página:
+1)
+
+La equivalencia de esta norma
+internacional con norma chilena es
+NCh9000.
+
+Indicación sobre la norma chilena
+oficial idéntica.
+
+1
+
+Se reemplaza “in a future International Indica una norma que en ese
+Standard”
+por
+“en
+ISO 10333-6 momento estaba en elaboración,
+(ver Anexo B, [1])”.
+pero que actualmente existe.
+Además por formato de norma, en
+el paréntesis se identifica anexo en
+el cual se encuentra la bibliografía.
+
+4.2.2.1
+
+Se agrega una nota al pie de página:
+2)
+
+En inglés: End stop.
+
+Indicación en inglés del término
+traducido, a objeto de dar mayor
+información al lector sobre el
+término original.
+
+6.1
+
+Se cambia “lenguaje nacional apropiado” El
+Instituto
+Nacional
+de
+por “idioma español”.
+Normalización elabora normas en
+español.
+
+6.2.1
+
+Se reemplaza
+“NCh1258/4”.
+
+Figuras 1, 2, 3 y 4
+
+Se mantiene el orden y numeración, Mejorar continuidad en la lectura de
+pero se ubican al final del cuerpo de la la norma.
+norma.
+
+“ISO
+
+10333-4”
+
+por La norma es de alcance nacional.
+
+Figuras A.1, A.2, A.3. A.4, Se mantiene el orden y numeración, Mejorar continuidad en la lectura de
+A.5, A.6, A.7 y A.8
+pero se ubican al final del Anexo A.
+la norma.
+Figura A.3
+
+42
+
+Se reemplazan los números “1” y “2” Mejorar
+por su significado explícito, es decir, figura.
+“Pendiente
+1”
+y
+“Pendiente 2”,
+respectivamente.
+
+la
+
+interpretación
+
+de
+
+la
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NCh1258/4
+
+Anexo D
+(Informativo)
+
+Justificación de las desviaciones técnicas
+Tabla D.1 - Desviaciones técnicas
+Cláusula / subcláusula
+0
+0
+
+1, párrafo 4
+
+6.1 c)
+6.1 i)
+
+6.1 r)
+
+6.1 s)
+6.1 w)
+
+6.3.3
+
+Desviaciones técnicas
+Se hace obligatorio el uso de SPDC
+y los debería se cambian por debe.
+Se
+hace
+mandatorio
+el
+entrenamiento e instrucción del
+personal que utiliza SPDC.
+Se hace mandatorio que los
+tratamientos para asegurar la
+durabilidad de los materiales de
+construcción de los ACC, cumplan
+con
+las
+normas
+nacionales
+pertinentes, o en su defecto, con
+normas internacionales y otras
+especificaciones relacionadas con
+características física relevantes y/o
+la seguridad de los usuarios.
+Se hace mandatorio el uso de un
+SPDC por un usuario entrenado.
+Se hace mandatorio que, en caso
+de duda acerca de las limitaciones
+de los materiales utilizados en los
+ACC, el usuario consulte al
+fabricante.
+Se hace mandatorio que, es
+necesario
+considerar
+las
+condiciones de rescate.
+Se hace mandatorio que, el usuario
+debe conocer el sistema que utiliza.
+Se hace mandatorio la existencia
+del espacio libre adecuado para que
+la detención de una caída se lleve a
+cabo en forma correcta.
+Se hace mandatorio que el
+comprador informe al proveedor
+acerca
+de
+las
+condiciones
+ambientales, de almacenamiento o
+de transporte, que puedan afectar
+la durabilidad de los equipos de
+seguridad.
+
+Justificaciones
+Minimizar los riesgos de caída
+cuando se trabaja en altura.
+Hacer que el uso de SPDC sea
+óptimo.
+Optimizar la vida útil de los arneses
+para el cuerpo completo y
+aumentar la seguridad a los
+usuarios de estos equipos.
+
+Asegurar que el usuario tenga
+entrenamiento para usar SPDC.
+Aumentar la seguridad del usuario y
+conocer las limitaciones del ACC.
+
+Aumentar la seguridad del usuario.
+
+Aumentar la seguridad del usuario.
+Asegurar que el usuario al caer, no
+colisione con algún obstáculo o el
+piso.
+Asegurar que el suministro de
+equipos se realice bajo condiciones
+adecuadas.
+
+43
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+Licenciado por INN para COM. LUAGHER LTDA.
+Rut: 78.745.040-7
+Creado: 2010-11-08
+Licencia 1 usuario. Copia y uso en Red PROHIBIDOS
+
+NORMA CHILENA OFICIAL
+INSTITUTO
+
+NACIONAL
+
+DE
+
+NCh 1258/4.Of2005
+
+NORMALIZACION
+
+z
+
+INN-CHILE
+
+Sistemas personales para detención de caídas - Parte 4:
+Rieles verticales y líneas de vida verticales que incorporan
+un dispositivo para detención tipo deslizante
+Personal fall-arrest systems - Part 4: Vertical rails and vertical lifelines incorporating a
+sliding-type fall arrester
+
+Primera edición : 2005
+
+CORRESPONDENCIA CON NORMA INTERNACIONAL
+ISO 10333-4:2002 (E) Personal fall-arrest systems - Part 4: Vertical rails and vertical lifelines
+incorporating a sliding-type fall arrester, MOD
+
+Descriptores:
+
+medidas de seguridad, dispositivos de seguridad, sistemas de sujeción, líneas
+de seguridad, requisitos, ensayos
+
+CIN 13.340.60
+COPYRIGHT © 2008:
+INSTITUTO NACIONAL DE NORMALIZACION - INN
+* Prohibida reproducción y venta *
+Dirección
+: Matías Cousiño Nº 64, 6º Piso, Santiago, Chile
+Web
+: www.inn.cl
+Miembro de : ISO (International Organization for Standardization) • COPANT (Comisión Panamericana de Normas Técnicas)
+
+

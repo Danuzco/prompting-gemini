@@ -1,0 +1,155 @@
+1. Introducción
+El presente documento tiene por objetivo identificar y desarrollar las principales normativas chilenas vigentes relativas a la seguridad en el uso de andamios y la ejecución de trabajos en altura física. Estas regulaciones, que combinan disposiciones legales y normas técnicas, buscan proteger la vida y salud de los trabajadores, reducir la siniestralidad laboral y establecer estándares mínimos de diseño, montaje, uso y mantención de los equipos.
+2. Marco Legal General
+La base de la seguridad en Chile recae en las siguientes disposiciones legales que definen las responsabilidades del empleador:
+2.1 Protección Eficaz.
+Código del Trabajo, articulo n.º 184
+El empleador estará obligado a tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, informando de los posibles riesgos y manteniendo las condiciones adecuadas de higiene y seguridad en las faenas, como también los implementos necesarios para prevenir accidentes y enfermedades profesionales.
+2.2 Provisión de Equipos de Protección Personal (EPP).
+Decreto Supremo N.º 594, articulo n.º 53
+ El empleador deberá proporcionar a sus trabajadores, libres de todo costo y cualquiera sea la función que éstos desempeñen en la empresa, los elementos de protección personal que cumplan con los requisitos, características y tipos que exige el riesgo a cubrir y la capacitación teórica y práctica necesaria para su correcto empleo debiendo, además, mantenerlos en perfecto estado de funcionamiento. Por su parte el trabajador deberá usarlos en forma permanente mientras se encuentre expuesto al riesgo.
+2.3 Información de los Riesgos Laborales (IRL).
+Decreto Supremo N.º 44, articulo n.º 15
+La entidad empleadora deberá garantizar que cada persona trabajadora, previo al inicio de las labores, reciba de forma oportuna y adecuada información acerca de los riesgos que entrañan sus labores, de las medidas preventivas y los métodos o procedimientos de trabajo correctos, determinados conforme a la matriz de riesgos y el programa de trabajo preventivo regulados en este reglamento. 
+
+
+
+
+
+3. Normativa para Uso de Andamios
+Los requisitos técnicos y de seguridad estructural de los andamios se encuentran en la serie de Normas Chilenas (NCh) desarrolladas por el INN:
+Norma Chilena
+Descripción
+NCh. 997/Of. 1999
+Andamios – Terminología y clasificación.
+NCh. 998/Of. 1999
+Andamios – Requisitos generales de seguridad.
+NCh. 2501/1 Of. 2000
+Andamios metálicos modulares prefabricados – Parte 1: Requisitos generales.
+NCh. 2501/2 Of. 2000
+Andamios metálicos modulares prefabricados – Parte 2: Requisitos estructurales.
+Decreto N.º 47
+Ordenanza general de urbanismo y construcciones.
+3.1 Elementos Constituyentes del Andamio y Medidas de Seguridad Específicas.
+La seguridad estructural de un andamio depende directamente de la integridad y el correcto montaje de cada uno de sus componentes.
+3.1.1 Andamio metálico modular apoyado
+Andamio compuesto por cabezales, diagonales, plataforma de trabajo y accesorios de seguridad apoyado en el piso y arriostrado a la fachada.
+* Placa con husillo: Es una base regulable sobre la que se inicia el montaje de los cuerpos de andamios, esta base permite nivelar la estructura y lograr un buen apoyo en el suelo.
+* Soporte de inicio: Elemento que une la placa de apoyo con el resto de la estructura. 
+* Marco: Estructura metálica modular prefabricada compuesta por dos pies derechos, uno o más travesaños, refuerzos para asegurar su rigidez y elementos de unión.
+* Plataforma: Superficie horizontal que soporta directamente la carga admisible considerando operarios, herramientas y materiales. La plataforma de piso se encuentra instalada entre dos marcos, que soporta por sí sola una carga sobre ella, puede estar formada por más de un elemento, éstos deben estar provistos de un seguro que impida su movimiento y que el viento pueda levantarlas o volcarlas, la separación en los pisos no debe ser superior a 25mm.
+* Baranda: Elemento longitudinal y/o transversal fijado a las caras interiores de los pie derecho y tendido en los costados expuestos de la plataforma de trabajo, destinado a prevenir la caída de los operarios. La baranda debe estar formada por un elemento superior, ubicada aproximadamente a 1 metro por encima de la plataforma y un elemento intermedio, ubicado de forma que los espacios entre el rodapié y este elemento intermedio y entre éste y la baranda superior sean igual o menor a 470mm.
+* Rodapié: Elemento longitudinal y/o transversal fijado a las caras interiores de los pie derecho y apoyado directamente en los costados expuestos de las plataformas de trabajo, su función es impedir que caigan herramientas o materiales que se encuentren en la plataforma. El rodapié debe ser rígido y tener una altura de al menos 150mm sobre la plataforma.
+* Diagonal: Pieza oblicua destinada a rigidizar el andamio frente a solicitaciones horizontales, se instala uniendo dos pies derechos consecutivos.
+* Anclaje y amarra: Conjunto de elementos rígidos definidos y ubicados según proyecto, que permiten asegurar y estabilizar el andamio, evitando movimientos de éste. El anclaje debe ser un elemento fijado a la fachada en forma mecánica.
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.1 Andamio metálico modular en volado
+* Andamio compuesto por cabezales, diagonales, plataforma de trabajo y accesorios de seguridad, apoyado en el edificio mediante elementos en voladizo y arriostrado a la fachada. 
+* Base: Estructura que sirve de apoyo al andamio de fachada en volado, se apoya en dos losas consecutivas al interior del edificio.
+* Marco: (Ver descripción en 3.1.1)
+* Plataforma: (Ver descripción en 3.1.1)
+* Baranda: (Ver descripción en 3.1.1)
+* Rodapié: (Ver descripción en 3.1.1)
+* Diagonal: (Ver descripción en 3.1.1)
+* Anclaje y amarra: (Ver descripción en 3.1.1)
+3.1.2 Andamio Colgante
+Son superficies de trabajo transitorias, usadas como plataformas suspendidas mediante cables o cuerdas y pescantes, éstas se desplazan verticalmente accionado por los usuarios por medios mecánicos o eléctricos. En general son para servicio liviano.
+* Estructura de soporte: Estructura adosada al edificio que permite colgar el andamio en forma segura, existen soportes fijos o montados sobre rieles. 
+* Ganchos: Pieza metálica diseñada para colgar los cables o cuerdas.
+* Cables primarios de elevación o suspensión: Cables de acero de los que se cuelga el andamio y permite su desplazamiento. Éstos deben ser continuos y del largo adecuado a la altura del edificio.
+* Cables secundarios: Cables de seguridad de los que cuelga el andamio, en caso de falla del cable primario.
+* Cable de alimentación eléctrica: Cable que energiza a los tecles o huinches en el caso que éstos sean eléctricos. 
+* Tecle mecánico: Equipo que desplaza el andamio, éste puede ser manual o accionado por un motor.
+* Plataforma suspendida: Superficie horizontal que soporta directamente la carga admisible, considerando operarios, herramientas y materiales. La plataforma es un elemento de piso, es parte de la estructura del andamio que soporta por sí sola una carga sobre ella, el andamio está colgado de esta superficie.
+* Estrobos o terminales: Estructura que soporta a cada extremo de la plataforma.
+* Rodillos de amortiguación: Elemento flexible que amortigua el contacto entre la plataforma colgante y la superficie de la fachada, evita daños y facilita el desplazamiento. 
+* Baranda: (Ver descripción en 3.1.1)
+* Rodapié: (Ver descripción en 3.1.1)
+3.1.3 Andamio de plataforma auto-elevadora
+Andamio compuesto por una plataforma de trabajo, una estructura de apoyo y un sistema de desplazamiento vertical. La plataforma de trabajo está compuesta por una o más partes montadas en una viga horizontal. La estructura de apoyo está formada por una base y por una o más guías laterales. El sistema de desplazamiento vertical está formado por un motor y un sistema de elevación.
+* Base: Regulable para lograr su nivelación, sobre la que se apoya cada mástil.
+* Mástil: Estructura metálica vertical sobre la cual se apoya y desplaza la plataforma de trabajo.
+* Anclaje a la fachada: Conjunto de elementos rígidos definidos y ubicados según proyecto, que permiten asegurar y estabilizar el mástil, evitando movimientos de éste. El anclaje debe ser un elemento fijado a la fachada en forma mecánica. 
+* Vigas horizontales: Vigas que estructuran la plataforma, son los elementos que rigidizan y soportan las cargas de la plataforma de trabajo.
+* Chasis: Estructura metálica sobre la que se apoyan los grupos motrices.
+* Grupo motriz: Son los motores eléctricos solidarios a la estructura que accionan los piñones del sistema de desplazamiento de la plataforma. 
+* Plataforma: (Ver descripción en 3.1.1)
+* Baranda: (Ver descripción en 3.1.1)
+* Rodapié: (Ver descripción en 3.1.1)
+4. Normativa para Trabajo Seguro en Altura (SPDC)
+Estas normativas se enfocan en los Sistemas Personales para la Detención de Caídas (SPDC) y otros elementos de protección, siendo críticos para labores a 1,8 metros o más sobre un nivel inferior.
+Norma Chilena
+Descripción 
+NCh. 1258/1 Of. 2004
+Sistemas personales para detención de caídas – Parte 1: Arneses para el cuerpo completo.
+NCh. 1258/2 Of. 2005
+Sistemas personales para detención de caídas – Parte 2: Sistemas personales para detención de caídas - Parte 2: Estrobos y amortiguadores de impacto.
+NCh. 1258/3 Of. 2005
+Sistemas personales para detención de caídas – Parte 3: Líneas de vida autorretráctiles.
+NCh. 1258/4 Of. 2005
+Sistemas personales para detención de caídas – Parte 4: Rieles verticales y líneas de vida verticales que incorporan un dispositivo para detención tipo deslizante.
+NCh. 1258/5 Of. 2005
+Sistemas personales para detención de caídas – Parte 5: Conectores con puerta de trabado automático y de cierre automático.
+NCh. 1258/6 Of. 2005
+Sistemas personales para detención de caídas – Parte 6: Ensayos de comportamiento de sistema.
+Guía Técnica ISP
+Guía para la selección y control de equipos de protección personal para trabajos con riesgos de caídas.
+4.1 Puntos de anclaje
+El anclaje es un punto seguro para la sujeción del SPDC a la estructura disponible. Algunos posibles puntos de anclaje incluyen, pero no se limitan a, elementos de acero, vigas, equipo pesado y puntos de anclajes especialmente diseñados (móviles o fijos).
+El anclaje deberá cumplir con los siguientes requisitos:
+* Cualquiera sea el punto de anclaje posible, este deberá resistir una carga mayor o igual a 2.226 Kg (22 kN) por trabajador conectado. 
+* Deberá ser independiente de cualquier anclaje que vaya a ser usado para suspender o soportar plataformas de trabajo (andamios, plataformas móviles, escaleras, etcétera).
+* Deberá adaptarse al tipo de trabajo a desarrollar, a la instalación y a la estructura disponible. 
+Los sitios en los cuales se instalará el anclaje deberán ser seleccionados correctamente para: 
+* Reducir la posible distancia total de caída libre.
+* Evitar los riesgos en las caídas tipo péndulo.
+* Disponer de suficiente espacio libre en el recorrido de las posibles caídas para no golpearse contra ningún objeto.
+4.2 Espacio libre requerido para detener la caída
+Si la caída ocurre, deberá haber suficiente espacio debajo del trabajador para que sea detenido antes que éste golpee el piso o se encuentre con un obstáculo en la dirección de la caída. Cuando el espacio libre sea insuficiente, no se deberá contemplar el uso de un sistema personal para detención de caídas en base a un estrobo amortiguador de impacto.
+El espacio libre de caída debajo del usuario se puede calcular de la siguiente manera:
+
+
+4.3 Consideraciones adicionales del SPDC
+* Adaptación del equipo a las características anatómicas del usuario: Se debe seleccionar el modelo que mejor se adapte a la anatomía del usuario. Si la masa total (usuario + herramientas) supera los 100 Kg, se debe consultar al fabricante sobre la aptitud del equipo.
+* Compatibilidad con otros EPP: El SPDC no debe interferir con la funcionalidad de otros EPP, y viceversa.
+4.4 Clasificación según norma oficial
+* Todos los arneses para cuerpo completo (ACC) deben ser al menos Clase A para propósitos de detención de caídas.
+* Si el ACC Clase A tiene otros elementos de fijación, esté debe incluir la siguiente clasificación: 
+o Clase D para propósitos de ascenso/descenso controlado
+o Clase E para propósitos de acceso a espacios confinados
+o Clase P para propósitos de posicionamiento de trabajo.
+
+
+CLASE A
+
+
+4.5 Líneas de vida
+La norma NCh. 1258/3 Of. 2005 sobre líneas de vida autorretráctiles indica que:
+* La línea de vida extendida de poliamida y/o poliéster debe ser de al menos tres hebras.
+* Las líneas de vida que se utilizan en trabajos ejecutados cerca de estaciones de soldadura,   oxicorte o fuentes de calor se deben proteger mediante protección térmica. 
+* La fuerza mínima de ruptura de la cuerda de fibra o del material de la cinta utilizado    en la construcción de líneas de vida debe ser de 22 kN.
+* El diámetro mínimo del cable de acero utilizado en la construcción de líneas de vida    debe ser de 5 mm con una fuerza mínima de ruptura de 15 kN.
+* Los extremos del cable de acero se deben soldar, enrollar o tener una terminación    equivalente para impedir el deshilachado.
+* No se deben utilizar nudos para hacer terminaciones de la línea de vida.
+4.6 Marcado
+Los arneses de cuerpo completo deben disponer de una etiqueta de tipo permanentemente con la siguiente información:  
+* La identificación de la norma NCh 1258/1 Of. 2004, su tipo y clase (por ejemplo: A, AD, ADP, etcétera).
+* El nombre, marca registrada u otros medios de identificación del fabricante o proveedor.
+* Información respecto a la identificación del producto del fabricante, la que debe incluir el número de partida o serie que permita trazar el origen.
+* El año de fabricación del producto.
+* La identificación de la fibra utilizada como material de construcción.
+* Información que establezca por medios apropiados el propósito deseado de cada elemento de fijación y específicamente identificando aquellos elementos que estén diseñados para ser utilizados como parte de un sistema para detención de caídas.
+* Una advertencia sobre la lectura de las instrucciones del fabricante.
+* Una marca especial que indique la argolla de fijación para una aplicación en detención de caídas. Se debe marcar una letra A sobre cada cinta de hombro bajo la argolla de fijación para detención de caídas y sobre la cintura.
+
