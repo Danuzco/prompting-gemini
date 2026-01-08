@@ -14,7 +14,7 @@ parser.add_argument("--filename", type=str, help="Image name")
 selected_image_path = parser.parse_args()
 selected_image_path = images_path.joinpath(selected_image_path.filename)
 
-client = genai.Client(api_key="AIzaSyAlgoMcdo7eY08mRhuQetODlrynNwNU7ns")
+client = genai.Client(api_key="API-KEY")
 
 # --- Define PDF/Doc Paths ---
 norm_paths = [
