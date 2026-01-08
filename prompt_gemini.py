@@ -9,25 +9,25 @@ images_path = path_cwd.joinpath('images')
 norms_path = path_cwd.joinpath('normativas')
 
 parser = argparse.ArgumentParser(description="Obtener parámetros")
-parser.add_argument("--path", type=str, help="Image name")
+parser.add_argument("--filename", type=str, help="Image name")
 
 selected_image_path = parser.parse_args()
-selected_image_path = images_path.joinpath(selected_image_path.path)
+selected_image_path = images_path.joinpath(selected_image_path.filename)
 
-client = genai.Client(api_key="API-KEY")
+client = genai.Client(api_key="AIzaSyAlgoMcdo7eY08mRhuQetODlrynNwNU7ns")
 
 # --- Define PDF/Doc Paths ---
-pdf_paths = [
+norm_paths = [
     norms_path.joinpath('conceptos.txt'),
     norms_path.joinpath('Normativa_Andamios_SPDC.txt'),
     norms_path.joinpath('NCh-1258-04-2005.pdf'),
-    path_cwd.joinpath('Estandar_Altura_SPDC.pdf'),
-    path_cwd.joinpath('estiba_y_estrobado_de_cargas.pdf')
+    norms_path.joinpath('Estandar_Altura_SPDC.pdf'),
+    norms_path.joinpath('estiba_y_estrobado_de_cargas.pdf')
 ]
 
 # --- Helper Functions ---
 def convert_docx_to_text(docx_path):
-    """Extract text from DOCX file"""
+    """Convierte archivos .docx a .txt"""
     doc = Document(docx_path)
     return "\n".join([paragraph.text for paragraph in doc.paragraphs])
 
@@ -57,15 +57,15 @@ def prepare_file(path):
     else:
         raise ValueError(f"Unsupported file type: {path.suffix}")
 
+
 def prepare_image(path):
-    """Prepare image file"""
+    """Prepara la imagen en un formato apropiado"""
     with open(path, "rb") as f:
         return types.Part.from_bytes(data=f.read(), mime_type="image/jpeg")
 
 # --- Build the request content ---
 contents = []
 
-# 1. Add the prompt text
 prompt = (
     "Analice la imagen basándose en los archivos adjuntos y las definiciones descritas en el archivo 'conceptos.txt'."
     "Diga si el (o los) trabajador(es) está(n) bajo riesgo potencial y usa(n) adecuadamente su(s) EPP, según la normativa chilena vigente. "
@@ -82,7 +82,7 @@ contents.append(prompt)
 contents.append(prepare_image(selected_image_path))
 
 # 3. Add all the Documents (PDFs/DOCX/TXT)
-for path in pdf_paths:
+for path in norm_paths:
     if path.exists():
         print(f"Adding file: {path.name}")
         contents.append(prepare_file(path))
