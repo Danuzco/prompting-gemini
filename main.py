@@ -7,7 +7,7 @@ from PIL import Image
 import io
 
 app = FastAPI()
-client = genai.Client(api_key="AIzaSyAlgoMcdo7eY08mRhuQetODlrynNwNU7ns")
+client = genai.Client(api_key="API-KEY")
 
 path_cwd = Path.cwd()
 norms_path = path_cwd.joinpath('normativas')
